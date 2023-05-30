@@ -1,8 +1,9 @@
 const Home = (): JSX.Element => {
-  return (
-    <main>
-    </main>
-  )
+	return (
+		<main>
+			<p className="text-red">stupid donkey</p>
+		</main>
+	)
 }
 
-export default Home;
+export default Home
