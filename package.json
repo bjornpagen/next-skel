@@ -27,6 +27,7 @@
 		"@unocss/cli": "^0.52.4",
 		"@unocss/preset-rem-to-px": "^0.52.4",
 		"eslint": "^8.41.0",
+		"eslint-config-prettier": "^8.8.0",
 		"eslint-plugin-promise": "^6.1.1",
 		"eslint-plugin-react-hooks": "^4.6.0",
 		"eslint-plugin-unicorn": "^47.0.0",
